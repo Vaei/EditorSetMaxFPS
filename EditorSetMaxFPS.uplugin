@@ -1,7 +1,7 @@
 ﻿{
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.0.0",
 	"FriendlyName": "EditorSetMaxFPS",
 	"Description": "Sets t.maxfps 60 on editor load",
 	"Category": "Editor",
